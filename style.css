@@ -36,3 +36,13 @@ ul{
     gap: 30px;
     letter-spacing: 2px;
 }
+
+.gif{
+    text-align: center;
+}
+
+main{
+    height: 92vh;
+    background-image: url('imgens/agatha.loja.webp');
+
+}
